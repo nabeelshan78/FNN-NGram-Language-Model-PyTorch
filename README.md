@@ -91,11 +91,11 @@ This plot shows the perplexity of the different N-gram models during training. P
 ---
 
 ## Usage
-Ensure that all the required libraries (listed in the main README) are installed in your Python environment.  
+Ensure that all the required libraries are installed in your Python environment.  
 
 Run the `notebook.ipynb` file in a Jupyter Notebook or JupyterLab environment. The notebook contains the complete workflow for data processing, model training, and visualization.  
 
-The pre-trained model state dictionaries (`2gram.pth`, `4gram.pth`, `8gram.pth`) are provided in the repository. You can load these to use the pre-trained models without needing to retrain them. The notebook demonstrates how to load these saved states.  
+The pre-trained model state dictionaries (`2gram.pth`, `4gram.pth`, `8gram.pth`) are provided in the repository. You can load these to use the pre-trained models without needing to retrain them.
 
 ---
 
